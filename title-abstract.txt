@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Exploring Techniques for Addressing Long-Range Interactions in Graph Neural Networks: A Comparative Study of Positional Encoding, Edge Creation, and Attention
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In this paper, we apply a set of transformer-based techniques to various Graph Neural Network (GNN) architectures and evaluate their effectiveness in capturing long-range interactions in the graph. Our proposed methods encompass positional encoding, edge creation, and graph attention and we examined for their performances both cooperatively and comparatively. These methods aim to address the limitations of long-range interactions between nodes in the graph structure, which can affect the quality of results obtained by GNN models. Our results suggest that while the effectiveness of each technique depends on the specific dataset and task, a joint application of transformer-based methods can significantly improve GNN models' ability to capture long-range interactions.
